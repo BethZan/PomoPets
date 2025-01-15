@@ -67,3 +67,7 @@ p2 {
     color: brown;
     float: center;
 }
+
+.login_btn {
+    padding-left: 45px;
+}
