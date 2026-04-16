@@ -2,7 +2,7 @@
 
 A productivity game that blends Pomodoro study sessions with virtual pet care. Study, earn coins, hatch eggs, and grow a collection of pets — each with unique rarities and abilities.
 
-Built by combining degrees in psychology and computer science to make self-care and studying feel rewarding rather than like a chore.
+Built by combining degrees in psychology and computer science to make self-care and studying feel rewarding rather than like a chore. :)
 
 ---
 
